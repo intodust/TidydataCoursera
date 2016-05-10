@@ -25,7 +25,7 @@ training_merged and test_merged are two intermediary data which are result of co
 ActivityNamedDataset is created by naming getting activity names into the mergeddata and getting sebset on just mean and standard deviation variable.
 seconddataset is tidy data set which is aggregated on mean from ActivityNamedDataset and arranged on subjectID and ActivityID.
 
-Original Set|Tidy Set|Units
+Original Set|Second Tidy Set|Units
 ---|---|---
 NA|subjectId|NA
 NA|activityId|NA
